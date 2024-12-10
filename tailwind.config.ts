@@ -13,7 +13,9 @@ export default {
         foreground: "var(--foreground)",
       },
       fontFamily: {
-        pricedown: ["Pricedown", "sans-serif"],
+        pricedown: ['var(--font-pricedown)'],
+        diploma: ['var(--font-diploma)'],
+        pacifico: ['var(--font-pacifico)'],
       },
     },
   },

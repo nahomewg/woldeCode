@@ -1,14 +1,3 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-
-@font-face {
-    font-family: 'Pricedown';
-    src: url('/fonts/Pricedown.otf') format('opentype'),
-         url('/fonts/Pricedown.woff') format('woff'),
-         url('/fonts/Pricedown.woff2') format('woff2');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
